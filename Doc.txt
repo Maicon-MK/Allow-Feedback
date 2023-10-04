@@ -1,0 +1,15 @@
+Doc de gestao do projeto:(abistrato)
+
+ALLOW - Um sistema de feedback b2b, voltado para gestão e sinergia de funcionarios.
+Trabalhando com um sistema de tokens para envio dos feedback.
+
+
+
+
+
+Tela de log - 30% completa
+Tela de feedback (user) - 0%
+Tela de gestão (PM) - 0%
+SmatContract - 0%
+Feedback coins - 0%
+Banco de dados - 0%
